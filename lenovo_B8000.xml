@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!--project path="device/lenovo/b8000" name="TeamYogaBlade/android_device_lenovo_b8000" remote="github" revision="master"/>
+    <project path="kernel/lenovo/b8000" name="TeamYogaBlade/android_kernel_lenovo_b8000" remote="github" revision="master"/>
+    <project path="kernel/lenovo/b8000/kernel_source" name="TeamYogaBlade/lenovo_b6000-8000_kernel_source" remote="github" revision="master"/-->
+
+    <project path="vendor/lenovo/B8000" name="gwindlord/android_vendor_lenovo_b8000" remote="github" revision="master"/>
+    <project path="device/lenovo/B8000" name="gwindlord/android_device_lenovo_b8000" remote="github" revision="master"/>
+    <project path="kernel/lenovo/kernel" name="gwindlord/android_kernel_lenovo_b8000" remote="github" revision="master"/>
+    <project path="kernel/lenovo/mediatek" name="gwindlord/android_kernel_lenovo_mediatek" remote="github" revision="master"/>
+
+    <!--project path="kernel/lenovo/b8000" name="gwindlord/android_prebuilt_kernel_lenovo_b8000" remote="github" revision="master"/>
+    <project path="kernel/lenovo/b8000/kernel_source" name="gwindlord/lenovo_b6000-8000_kernel_source" remote="github" revision="master"/-->
+</manifest>
